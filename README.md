@@ -4,6 +4,16 @@ An autonomous, tool-using AI research agent harness equipped with stateful worki
 
 ---
 
+## 🎥 Video Demonstration
+
+Check out a short demonstration of the project in action on YouTube:
+
+[![Watch Demonstration](https://img.youtube.com/vi/m6FWYcXSBYQ/0.jpg)](https://youtu.be/m6FWYcXSBYQ)
+
+👉 **[Watch the Video Demo on YouTube](https://youtu.be/m6FWYcXSBYQ)**
+
+---
+
 ## 🌟 Highlights & Key Features
 
 - **🤖 Multi-Provider LLM Support**: Seamless integration with **OpenAI (`gpt-4o-mini`)**, **Anthropic (`claude-3-5-haiku`)**, or a **Free Scripted Demo Mode** (no API key required).
